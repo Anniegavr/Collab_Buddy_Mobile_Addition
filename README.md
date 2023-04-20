@@ -10,6 +10,7 @@
 - Bookmark save post
 - Add posts to interests
 - Add people to network
+- Switch to dark mode
 
 ### Tech-related features
 - <ins>Authentication</ins>:  OkHttp authentication token on the device using SharedPreferences.
