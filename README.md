@@ -20,5 +20,5 @@
 
 ### To build and start the project
 - Ensure you have Android Studion installed and an emulator prepared (Android 8.0 OS and above)
-- In the terminal, run the command ./gradlew clean build -x test  --info
+- In the terminal, run the command ``` ./gradlew clean build -x test  --info ```
 - Now click on the run button at the top to run the application and wait for it to launch on your device
