@@ -676,7 +676,7 @@ private fun HomeTopAppBar(
     CenterAlignedTopAppBar(
         title = {
             Image(
-                painter = painterResource(R.drawable.ic_jetnews_wordmark),
+                painter = painterResource(R.drawable.cobuddy_logo),
                 contentDescription = title,
                 contentScale = ContentScale.Inside,
                 colorFilter = ColorFilter.tint(MaterialTheme.colorScheme.onBackground),
